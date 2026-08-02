@@ -6,9 +6,9 @@ What is JarChecker?  JarChecker is a modern file analysis tool designed to help 
 <br>
 <p align="center">
   <a href="https://www.reddit.com/r/JarChecker/">
-    <img src="images/RedditLogo.png" alt="Reddit Community" width="40" height="40">
+    <img src="images/RedditLogo.png" alt="Reddit Community" width="120">
   </a>
 </p>
 <p align="center">
-  <a href="https://www.reddit.com/r/JarChecker/">JOIN US!</a>
+  <a href="https://www.reddit.com/r/JarChecker/"><b>JOIN US!</b></a>
 </p>
