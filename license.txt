@@ -1,0 +1,24 @@
+======================================================================
+                         JarChecker BETA
+                        Made By SlippTech
+======================================================================
+
+[ ABOUT ]
+JarChecker BETA is an advanced utility designed for analyzing Java 
+archives, mods, shaderpacks, and executable packages to detect 
+potential risks, network endpoints, and hidden threats.
+
+[ LICENSE TERMS & USAGE ]
+1. This software is provided "as is", without warranty of any kind, 
+   express or implied.
+2. You are free to use, distribute, and modify this tool for personal 
+   and educational purposes.
+3. Commercial redistribution or claiming ownership of this software 
+   code without explicit authorization from SlippTech is prohibited.
+
+[ LINKS & COMMUNITY ]
+- Official Reddit: https://www.reddit.com/r/JarChecker/
+
+======================================================================
+Copyright (c) 2026 SlippTech. All rights reserved.
+======================================================================
