@@ -10,5 +10,5 @@ What is JarChecker?  JarChecker is a modern file analysis tool designed to help 
   </a>
 </p>
 <p align="center">
-  <a href="https://www.reddit.com/r/JarChecker/">Присоединяйтесь к нашему сабреддиту!</a>
+  <a href="https://www.reddit.com/r/JarChecker/">JOIN US!</a>
 </p>
