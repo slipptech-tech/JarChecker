@@ -1,0 +1,7 @@
+{
+  "app_name": "JarChecker",
+  "version": "1.0.0",
+  "theme": "dark",
+  "debug_mode": false,
+  "timeout": 30
+}
