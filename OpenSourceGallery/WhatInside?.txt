@@ -1,1 +1,6 @@
 see what is inside JarChecker :)
+hmmm some shiboken6
+a little bit PySide6
+and .dll 
+
+<3
